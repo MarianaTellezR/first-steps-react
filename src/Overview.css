@@ -1,0 +1,14 @@
+.Overview {
+  padding: 15px 10px;
+}
+
+.Overview ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+@media (max-width: 800px) {
+  .Overview {
+    text-align: center;
+  }
+}
